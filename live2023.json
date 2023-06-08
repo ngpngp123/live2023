@@ -1,15 +1,15 @@
 [
 {
 
-           "league": "MAN U",
+           "league": "Champion League Final",
 
-            "date": "TV Channel",
+            "date": "Jun 11",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "himg": "https://raw.githubusercontent.com/ngpngp123/pic2023/main/mancity.png",
 
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "aimg": "https://raw.githubusercontent.com/ngpngp123/italypic/main/napoli.png",
 
             "teams" : "Man United TV",
 
@@ -31,43 +31,7 @@
 
          
 
-                },
-
-                
-
-{
-
-                    "type": "MUTV 240 SD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MUTV 540 HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "MAN U TV 1080HD",
-
-                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-
                 }
-
-                
-
-            ]
-
-}
    ]
                 
 
